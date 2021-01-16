@@ -1,4 +1,4 @@
 hola mundo practicando con git 
-soy
+soy:
 Fernando Daneil Remache Ludizaca 
 y me gusta la programción; 
