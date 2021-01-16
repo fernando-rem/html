@@ -2,3 +2,5 @@ hola mundo practicando con git
 soy:
 Fernando Daneil Remache Ludizaca 
 y me gusta la programción; 
+
+y no tengo dinero porque no trabajo
