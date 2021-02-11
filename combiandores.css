@@ -1,0 +1,28 @@
+/* hermano adyacente o cercano 
+se toma todas las etiquetas p que esten cerca de un h2  */
+/* h2 + p{
+
+    color: red;
+} */
+
+
+/* combinador hermano general  
+se modifica todas las etiquetas p que tengan un hermano general h2*/
+/* 
+h2 ~ p{
+color: red;
+
+} */
+
+/* 
+combinador chail  la etiqueta parrafo que se hija directa del div */
+
+/* div > p {
+    color: red;
+} */
+
+/* desndiente  todas las etiquetas p que esten dentro de un div */
+div p{
+
+    color: red;
+}

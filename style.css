@@ -1,0 +1,79 @@
+/* .main-nav{
+margin-top: 10px;
+list-style: none;
+padding-left: 0;
+background-color:#13a4a4 ;
+
+}
+.main-nav__item{
+display: inline-block;
+
+}
+
+.main-nav__item a {
+color:white;
+padding:5px; 
+border-radius: 2px ;
+text-decoration: none;
+
+}
+/*seudo clases y seudo elementos */
+.main-nav__item a:hover {
+    color: blue;
+}
+.main-nav__item a:active {
+    color: red;
+}
+.main-nav__item a::after {
+content:"  | ";
+
+} */
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+padding: 0;}
+
+h1{
+    color: purple;
+
+    font-family: serif;
+    margin-bottom:10px ;
+}
+
+
+.title{
+    font-size: 18px;
+    font-family: monospace;
+}
+
+.nav{
+margin-top: 10px;
+list-style-type: none;
+padding-left: 0;
+
+
+}
+.nav li{
+    display: inline-block;
+}
+
+.nav a{
+    color: white;
+    background-color: #13a4a4;
+    padding: 5px;
+    border-radius: 2px;
+    text-decoration: none;
+}
+
+/* #main-nav .blog {
+
+    background-color: red !important;
+} 
+esforzar para que un estilo se aplique 
+*/
+
+.nav .blog {
+
+    background-color: red ;
+} 
